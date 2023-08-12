@@ -1,0 +1,430 @@
+{
+    "email" : "Email",
+    "email_input" : "Enter email please",
+    "password" : "Password",
+    "password_input" : "Enter password",
+    "signin_page_title" : "Welcome Back",
+    "signin_page_subtitle" : "Please enter your account information",
+    "signup_register_provider_page_title" : "Create a provider account",
+    "signup_register_provider_page_subtitle" : "Simple steps and start your success journey",
+    "signup_register_customer_page_title" : "Create a customer account",
+    "signup_register_customer_page_subtitle" : "Just seconds and you become a part of the Afta family",
+    "text_create_new_ticket" : "Create new ticket",
+    "text_profile_page" : "Profile page",
+
+    "signup_register_provider_step1_title" : "How do you want to run your business on the platform?",
+    "signup_register_provider_step1_subtitle" : "Choose account type",
+    "create_order_page_title" : "Request Accountant Service",
+    "create_order_page_subtitle" : "Achieve success with simple steps",
+    "create_consultancy_page_title" : "Request Consultancy Service",
+    "create_consultancy_page_subtitle" : "Get a direct answer to your question from specialists",
+    "text_title" : "Subject",
+    "text_latest_notification" : "Latest Notifications",
+    "text_view_all" : "View All",
+    "text_latest_invoices" : "Latest Invoices",
+    "text_latest_orders" : "Latest Orders",
+    "text_service_type" : "Service type",
+    "text_description" : "Details",
+    "text_add_request" : "Add Request",
+    "text_offer_value" : "Offer Value",
+    "text_payment_method" : "Payment Method",
+    "text_payment_plane" : "Payment Plane",
+    "text_client_data" : "Customer Information",
+    "text_provider_data" : "Provider Information",
+    "text_required_services" : "Required Services",
+    "text_offer_tab" : "Offer Form",
+    "text_negotiation_tab" : "Negotiantion",
+    "text_chat_tab" : "Messages",
+    "text_financial_tab" : "Financial",
+    "text_send_offer" : "Send Offer",
+    "text_offer_condition" : "Offer Conditions",
+    "text_offer_duration" : "Offer Duration",
+    "text_first_payment" : "First Payment",
+    "text_second_payment" : "Second Payment",
+    "text_third_payment" : "Third Payment",
+    "text_offers_list" : "Offers List",
+    "text_second" : "Second",
+    "text_seconds" : "Seconds",
+    "text_minute" : "Minute",
+    "text_minutes" : "Minutes",
+    "text_hour" : "Hour",
+    "text_hours" : "Hours",
+    "text_day" : "Day",
+    "text_days" : "Days",
+    "text_month" : "Month",
+    "text_months" : "Months",
+    "text_year" : "Year",
+    "text_years" : "Years",
+    "text_since" : "Since",
+    "text_send" : "Send",
+    "text_write_message" : "Write your message here...",
+    "text_loading" : " Wait please",
+    "text_activate_account" : "Please activate your",
+    "text_account_created" : "Account is created successfylly",
+    "text_accept_offer" : "Accept Offer",
+    "text_confirmation" : "Confirmation",
+    "text_confirm_accept_offer" : "Confirm accept selected offer",
+    "text_accept" : "Accept",
+    "text_success_accept_offer" : "Accepting offer successfylly",
+
+    "text_paid" : "Paid",
+    "text_not_paid" : "Not Paid",
+
+
+
+    "signup_register_provider_step2_title" : "Your package",
+    "signup_register_provider_step2_subtitle" : "Choose the right package for your business",
+
+    "signup_register_provider_step3_title" : "Register your information",
+    "signup_register_provider_step3_subtitle" : "Fill out the form completely",
+ 
+
+
+
+    "text_monthly" : "Monthly",
+    "text_yearly" : "Yearly",
+    "text_confirm" : "Confirm",
+    "text_ads_help" : "Ads you can add monthly on the platform",
+    "text_employees_help" : "Employees you can add under your account",
+
+    "forgot_password" : "Forgot password?",
+    "signin_button" : "Sign In",
+    "signup_button" : "Sign Up",
+    "pleaseEnter" : "Please enter {value}",
+    "@pleaseEnter" : {
+        "description" : "message to concat with input on validation",
+        "placeholders" : {
+            "value" : {
+                "type" : "String"
+            }
+        }
+    },
+    "successLoggin" : "Logged successfylly",
+    "menu_home" : "Dashboard",
+    "menu_orders" : "Orders",
+    "menu_clients" : "Clients",
+    "menu_consultancy" : "Consultancies",
+    "menu_providers" : "Providers",
+    "menu_reports" : "Reports",
+    "menu_reports_general" : "General Reports",
+    "menu_reports_clients" : "Clients Reports",
+    "menu_reports_providers" : "Providers Reports",
+    "menu_articles" : "Articles",
+    "menu_services" : "Services",
+    "menu_tickets" : "Tickets",
+    "menu_services_categories" : "Services Categories",
+    "menu_services_main" : "Main Services",
+    "menu_services_sub" : "Subsidiary Services",
+    "menu_notifications" : "Notifications",
+    "menu_settings" : "Profile Settings",
+
+    "column_order_id" : "Order Id",
+    "column_invoice_id" : "Invoice Id",
+    "column_ticket_id" : "Ticket Id",
+    "column_service_id" : "Service Id",
+    "column_article_id" : "Article Id",
+    "column_category_id" : "Category Id",
+    "column_category" : "Category",
+    "column_price" : "Price",
+    "column_balance" : "Balance",
+    "column_point" : "Point",
+    "column_views" : "Views",
+    "column_customer_id" : "Customer Id",
+    "column_provider_id" : "Provider Id",
+    "column_package_id" : "Package Id",
+    "column_package_name" : "Package Name",
+    "column_consultancy_id" : "Concultancy Id",
+    "column_client" : "Customer",
+    "column_provider" : "Provider",
+    "column_sender" : "Sender",
+    "column_department" : "Department",
+    "column_priority" : "Priority",
+    "column_title" : "Title",
+    "column_status" : "Status",
+    "column_orders_count" : "Total Orders",
+    "column_receiving_orders" : "Total Orders",
+    "column_points" : "Points",
+    "column_wallet" : "Wallet",
+    "column_order_type" : "Order Type",
+    "column_created_date" : "Created Date",
+    "column_actions" : "Actions",
+    "text_order" : "Order",
+        "text_complete_profile" : "Complete Profile",
+
+    "text_logout" : "Logout",
+    "text_word_consultancy": "{type, select, full{Consultancies} other{Concultancy}}",
+    "@text_word_consultancy": {
+        "description": "word consultancy",
+        "placeholders": {
+            "type": {
+                "type": "String"
+            }
+        }
+    },
+    "text_word_ticket": "{type, select, full{Tickets} other{Ticket}}",
+    "@text_word_ticket": {
+        "description": "word ticket",
+        "placeholders": {
+            "type": {
+                "type": "String"
+            }
+        }
+    },
+    "text_general_order": "{type, select, full{General Order} other{General}}",
+    "@text_general_order": {
+        "description": "general order type title",
+        "placeholders": {
+            "type": {
+                "type": "String"
+            }
+        }
+    },
+    "text_private_order": "{type, select, full{Private Order} other{Private}}",
+    "@text_private_order": {
+        "description": "private order type title",
+        "placeholders": {
+            "type": {
+                "type": "String"
+            }
+        }
+    },
+    "text_new_orders": "{type, select, full{New Orders} other{New}}",
+    "@text_new_orders": {
+        "description": "new order title",
+        "placeholders": {
+            "type": {
+                "type": "String"
+            }
+        }
+    },
+    "text_inprogress_orders": "{type, select, full{In-Progress Order} other{In-Progress}}",
+    "@text_inprogress_orders": {
+        "description": "in progress order title",
+        "placeholders": {
+            "type": {
+                "type": "String"
+            }
+        }
+    },
+    "text_complete_orders": "{type, select, full{Completed Order} other{Completed}}",
+    "@text_complete_orders": {
+        "description": "completed order title",
+        "placeholders": {
+            "type": {
+                "type": "String"
+            }
+        }
+    },
+    "text_cancel_orders": "{type, select, full{Canceled Order} other{Canceled}}",
+    "@text_cancel_orders": {
+        "description": "canceled order title",
+        "placeholders": {
+            "type": {
+                "type": "String"
+            }
+        }
+    },
+    "text_general_consultancy": "{type, select, full{General Consultancy} other{General}}",
+    "@text_general_consultancy": {
+        "description": "general consultancy type title",
+        "placeholders": {
+            "type": {
+                "type": "String"
+            }
+        }
+    },
+    "text_private_consultancy": "{type, select, full{Private Consultancy} other{Private}}",
+    "@text_private_consultancy": {
+        "description": "private consultancy type title",
+        "placeholders": {
+            "type": {
+                "type": "String"
+            }
+        }
+    },
+    "text_new_consultancy": "{type, select, full{New Consultancies} other{New}}",
+    "@text_new_consultancy": {
+        "description": "new consultancy title",
+        "placeholders": {
+            "type": {
+                "type": "String"
+            }
+        }
+    },
+    "text_inprogress_consultancy": "{type, select, full{In-Progress Consultancies} other{In-Progress}}",
+    "@text_inprogress_consultancy": {
+        "description": "in progress consultancy title",
+        "placeholders": {
+            "type": {
+                "type": "String"
+            }
+        }
+    },
+    "text_complete_consultancy": "{type, select, full{Completed Consultancies} other{Completed}}",
+    "@text_complete_consultancy": {
+        "description": "completed consultancy title",
+        "placeholders": {
+            "type": {
+                "type": "String"
+            }
+        }
+    },
+    "text_cancel_consultancy": "{type, select, full{Canceled Consultancies} other{Canceled}}",
+    "@text_cancel_consultancy": {
+        "description": "canceled consultancy title",
+        "placeholders": {
+            "type": {
+                "type": "String"
+            }
+        }
+    },
+    "text_new_ticket": "{type, select, full{New Tickets} other{New}}",
+    "@text_new_ticket": {
+        "description": "new ticket title",
+        "placeholders": {
+            "type": {
+                "type": "String"
+            }
+        }
+    },
+    "text_inprogress_ticket": "{type, select, full{In-Progress Tickets} other{In-Progress}}",
+    "@text_inprogress_ticket": {
+        "description": "in progress ticket title",
+        "placeholders": {
+            "type": {
+                "type": "String"
+            }
+        }
+    },
+    "text_complete_ticket": "{type, select, full{Solved Tickets} other{Completed}}",
+    "@text_complete_ticket": {
+        "description": "completed ticket title",
+        "placeholders": {
+            "type": {
+                "type": "String"
+            }
+        }
+    },
+    "text_cancel_ticket": "{type, select, full{Canceled Tickets} other{Canceled}}",
+    "@text_cancel_ticket": {
+        "description": "canceled ticket title",
+        "placeholders": {
+            "type": {
+                "type": "String"
+            }
+        }
+    },
+    "text_all_orders" : "All",
+    "text_currency" : "SAR",
+    "text_filter" : "Filter",
+    "text_filter_tickets" : "Filter Tickets",
+    "text_filter_packages" : "Filter Packages",
+    "text_filter_articles" : "Filter Articles",
+    "text_filter_orders" : "Filter Orders",
+    "text_filter_customers" : "Filter Customers",
+    "text_filter_providers" : "Filter Providers",
+    "text_filter_consultancy" : "Filter Consultancies",
+    "text_author" : "Author",
+    "text_provider_name" : "Provider Name",
+    "text_provider_type" : "Provider Type",
+    "text_client_name" : "Client Name",
+    "text_client_type" : "Client Type",
+    "text_order_type" : "Order Type",
+    "text_from_date" : "From Date",
+    "text_to_date" : "To Date",
+    "text_firm" : "Firm",
+    "text_person" : "Person",
+    "text_firm_help" : "I have team and i will add to my network",
+    "text_person_help" : "I manage my own careers and submit service offers myself",
+
+    "text_loading_data" : "Loading data",
+    "text_no_data" : "No data found",
+    "text_active" : "Active",
+    "text_draft" : "Draft",
+    "text_inreview" : "In Review",
+    "text_unactive" : "Not Active",
+    "text_all" : "All",
+    "text_edit" : "Edit",
+    "text_save" : "Save",
+    "text_delete" : "Delete",
+    "text_add" : "Add New",
+    "text_high" : "High",
+    "text_medium" : "Medium",
+    "text_low" : "Low",
+    "text_personal_info": "Personal Information",
+    "text_full_name": "Full Name",
+    "text_id_number": "ID Number",
+    "text_birthofdate": "Birth of date",
+    "text_mobile": "Mobile No.",
+    "text_job_title": "Job title",
+    "text_gender": "Gender",
+    "text_male": "Male",
+    "text_female": "Female",
+    "text_account_type": "Account Type",
+    "text_commission": "Commission",
+    "text_about": "About",
+    "text_warning": "Warning",
+    "text_cancel": "Cancel",
+    "text_confirm_delete": "Are you sure you want to delete?",
+    "text_search_by_invoice" : "Search by invoice number",
+    "text_attachment_title" : "Add Attachments",
+    "text_attachment_help" : "The maximum file upload limit is 5 MB",
+    "text_dropfile_here" : "Drop files here",
+    "text_or" : "Or",
+    "text_select_files" : "Browse Files",
+    "text_service_keyword" : "Example : Accounting sevice",
+
+    "text_location": "Location",
+    "text_time_zone": "Time zone",
+    "text_country": "Country",
+    "text_city": "City",
+    "text_phone": "Mobile",
+    "text_state": "State",
+    "text_search": "Search",
+    "text_remember": "Remember me",
+    "text_choose_country" : "Choose Country",
+    "text_choose_services" : "Choose Services",
+
+    "text_last_choose" : "Last Pick",
+    "dont_have_account" : "Dont have account?",
+    "text_success_save" : "Data saved successfylly",
+    "text_success_update" : "Data updated successfylly",
+    "text_success_delete" : "Data deleted successfylly",
+    "have_account" : "Already have account?",
+    "register_now" : "Register Now",
+    "text_license_data": "License Information",
+    "text_license_number": "License Number",
+    "text_license_start": "Start Date",
+    "text_license_end": "End Date",
+    "text_license_image": "License Image",
+    "text_certificate_title": "Certificates",
+    "text_certificate_univercity": "Univercity",
+    "text_certificate_career": "Specialization",
+    "text_certificate_date": "Date",
+    "text_certificate_degree": "Degree",
+    "text_education_title": "Education",
+    "text_education_univercity": "Univercity",
+    "text_education_career": "Specialization",
+    "text_education_date": "Date",
+    "text_education_degree": "Degree",
+    "text_experience_title": "Experience",
+    "text_experience_title_text": "Job Title",
+    "text_experience_sub_title": "Company Name",
+    "text_experience_description": "Job Description",
+    "text_experience_from_date": "From Date",
+    "text_experience_to_date": "To Date",
+    "text_bank_title" : "Bank Account",
+    "text_bank_name" : "Bank Name",
+    "text_bank_account_number" : "Account Number",
+    "text_bank_beneficiary_name" : "Beneficiary Name",
+    "text_bank_iban" : "Iban",
+    "text_tab_general" : "General",
+    "text_tab_license" : "License",
+    "text_tab_experience" : "Experience and Education",
+    "text_tab_payment" : "Payment Options"
+
+
+
+
+
+}

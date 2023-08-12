@@ -1,0 +1,417 @@
+{
+    "email" : "البريد الالكتروني",
+    "email_input" : "ادخل بريدك الالكتروني",
+    "password" : "كلمة المرور",
+    "password_input" : "ادخل كلمة المرور",
+    "signin_page_title" : "مرحبا بعودتك مرة أخرى",
+    "signin_page_subtitle" : "من فضلك ادخل بياناتك لتسجيل الدخول",
+    "signup_register_provider_page_title" : "إنشاء حساب مقدم خدمة",
+    "signup_register_provider_page_subtitle" : "خطوات بسيطة و تبدأ رحلة نجاحك",
+    "signup_register_customer_page_title" : "إنشاء حساب عميل",
+    "signup_register_customer_page_subtitle" : "مجرد ثواني و تصبح فرد من عائلة افتى",
+    "create_consultancy_page_title" : "طلب استشارة",
+    "create_consultancy_page_subtitle" : "احصل على إجابة مباشرة لسؤالك من المتخصصين",
+
+    "create_order_page_title" : "طلب خدمة محاسبية",
+    "create_order_page_subtitle" : "خطوات بسيطة و تبدأ رحلة نجاحك",
+    "text_service_type" : "نوع الخدمة",
+    "text_description" : "التفاصيل",
+    "text_title" : "العنوان",
+    "text_add_request" : "اضافة الطلب",
+    "text_offer_value" : "قيمة العرض",
+    "text_payment_method" : "طريقة الدفع",
+    "text_payment_plane" : "خطة الدفع",
+    "text_client_data" : "بيانات العميل",
+    "text_provider_data" : "بيانات مقدم الخدمة",
+    "text_required_services" : "الخدمات المطلوبة",
+    "text_offer_tab" : "تقديم عرض",
+    "text_negotiation_tab" : "التفاوض",
+    "text_chat_tab" : "المراسلات",
+    "text_financial_tab" : "الحركات المالية",
+    "text_send_offer" : "ارسال العرض",
+    "text_offer_condition" : "شروط العقد",
+    "text_offer_duration" : "مدة العقد",
+    "text_first_payment" : "الدفعة الأولى",
+    "text_second_payment" : "الدفعة الثانية",
+    "text_third_payment" : "الدفعة الثالثة",
+    "text_offers_list" : "قائمة العروض",
+    "text_second" : "ثانية",
+    "text_seconds" : "ثواني",
+    "text_minute" : "دقيقة",
+    "text_minutes" : "دقائق",
+    "text_hour" : "ساعة",
+    "text_hours" : "ساعات",
+    "text_day" : "يوم",
+    "text_days" : "ايام",
+    "text_month" : "شهر",
+    "text_months" : "شهور",
+    "text_year" : "سنة",
+    "text_years" : "سنين",
+    "text_since" : "منذ",
+    "text_accept_offer" : "اقبل العرض",
+    "text_confirmation" : "تأكيد",
+    "text_confirm_accept_offer" : "تأكيد الموافقة على العرض",
+    "text_accept" : "موافق",
+    "text_success_accept_offer" : "تم الموافقة على العرض بنجاح",
+    "text_send" : "ارسال",
+    "text_profile_page" : "الملف الشخصي",
+    "text_latest_notification" : "اخر الاشعارات",
+    "text_view_all" : "عرض الكل",
+    "text_latest_invoices" : "اخر الفواتير",
+    "text_latest_orders" : "اخر الطلبات",
+    "text_write_message" : "اكتب رسالتك هنا...",
+    "text_loading" : " انتظر",
+    "text_activate_account" : "برجاء تفعيل حساب",
+        "text_account_created" : "تم انشاء حسابك بنجاح",
+    "text_paid" : "مدفوعة",
+    "text_not_paid" : "غير مدفوعة",
+
+    "signup_register_provider_step1_title" : "كيف تريد ان تدير اعمالك على المنصة",
+    "signup_register_provider_step1_subtitle" : "قم باختيار نوع الحساب",
+    "text_create_new_ticket" : "انشاء تذكرة جديدة",
+
+    "signup_register_provider_step2_title" : "نظام حسابك",
+    "signup_register_provider_step2_subtitle" : "قم باخيار الباقة المناسبة لعملك",
+
+    "signup_register_provider_step3_title" : "تسجيل بياناتك",
+    "signup_register_provider_step3_subtitle" : "قم بمليء النموذج كاملا",
+
+    "text_monthly" : "شهري",
+    "text_yearly" : "سنوي",
+    "text_confirm" : "تاكيد",
+    "text_ads_help" : "إعلانات يمكنك اضافتها شهريا على المنصة",
+    "text_employees_help" : "موظفين يمكنك اضافتهم تحت حسابك",
+
+    "forgot_password" : "نسيت كلمة المرور؟",
+    "signin_button" : "تسجيل دخول",
+    "signup_button" : "سجل الآن",
+    "pleaseEnter" : "من فضلك ادخل {value}",
+    "@pleaseEnter" : {
+        "description" : "message to concat with input on validation",
+        "placeholders" : {
+            "value" : {
+                "type" : "String"
+            }
+        }
+    },
+    "successLoggin" : "تم تسجيل الدخول بنجاح",
+    "menu_home" : "الرئيسية",
+    "menu_orders" : "الطلبات",
+    "menu_clients" : "العملاء",
+    "menu_consultancy" : "الاستشارات",
+    "menu_providers" : "مقدمي الخدمات",
+    "menu_reports" : "التقارير",
+    "menu_reports_general" : "تقارير عامة",
+    "menu_reports_clients" : "تقارير العملاء",
+    "menu_reports_providers" : "تقارير مقدمي الخدمات",
+    "menu_articles" : "المقالات",
+    "menu_services" : "الخدمات",
+    "menu_tickets" : "التذاكر",
+    "menu_services_categories" : "تصنيفات الخدمات",
+    "menu_services_main" : "الخدمات الرئيسية",
+    "menu_services_sub" : "الخدمات الفرعية",
+    "menu_notifications" : "الاشعارات",
+    "menu_settings" : "اعدادات الحساب",
+    "column_order_id" : "رقم الطلب",
+    "column_ticket_id" : "رقم التذكرة",
+    "column_invoice_id" : "رقم الفاتورة",
+    "column_package_id" : "رقم الباقة",
+    "column_package_name" : "اسم الباقة",
+    "column_article_id" : "رقم المقالة",
+    "column_price" : "المبلغ",
+    "column_balance" : "الرصيد",
+    "column_point" : "نقطة",
+    "column_views" : "مشاهدات",
+    "column_customer_id" : "رقم العميل",
+    "column_service_id" : "رقم الخدمة",
+    "column_category_id" : "رقم التصنيف",
+    "column_category" : "التصنيف",
+    "column_provider_id" : "رقم مقدم الخدمة",
+    "column_consultancy_id" : "رقم الاستشارة",
+    "column_client" : "العميل",
+    "column_provider" : "مقدم الخدمة",
+    "column_sender" : "بواسطة",
+    "column_department" : "القسم",
+    "column_priority" : "الأولوية",
+    "column_title" : "العناون",
+    "column_status" : "الحالة",
+    "column_orders_count" : "عدد الطلبات",
+    "column_receiving_orders" : "عدد الطلبات",
+    "column_points" : "النقاط",
+    "column_wallet" : "المحفظة",
+    "column_order_type" : "نوع الطلب",
+    "column_created_date" : "تاريخ الانشاء",
+    "column_actions" : "إجراءات",
+    "text_complete_profile" : "استكمال الملف الشخصي",
+    "text_order" : "طلب",
+    "text_logout" : "تسجيل خروج",
+    "text_word_consultancy": "{type, select, full{استشارت} other{استشارة}}",
+    "@text_word_consultancy": {
+        "description": "word consultancy",
+        "placeholders": {
+            "type": {
+                "type": "String"
+            }
+        }
+    },
+    "text_word_ticket": "{type, select, full{تذاكر} other{تذكرة}}",
+    "@text_word_ticket": {
+        "description": "word ticket",
+        "placeholders": {
+            "type": {
+                "type": "String"
+            }
+        }
+    },
+    "text_general_order": "{type, select, full{طلب عام} other{عام}}",
+    "@text_general_order": {
+        "description": "general order type title",
+        "placeholders": {
+            "type": {
+                "type": "String"
+            }
+        }
+    },
+    "text_private_order": "{type, select, full{طلب خاص} other{خاص}}",
+    "@text_private_order": {
+        "description": "private order type title",
+        "placeholders": {
+            "type": {
+                "type": "String"
+            }
+        }
+    },
+    "text_new_orders": "{type, select, full{طلبات جديدة} other{جديد}}",
+    "@text_new_orders": {
+        "description": "new order title",
+        "placeholders": {
+            "type": {
+                "type": "String"
+            }
+        }
+    },
+    "text_inprogress_orders": "{type, select, full{طلبات جارية} other{جارية}}",
+    "@text_inprogress_orders": {
+        "description": "in progress order title",
+        "placeholders": {
+            "type": {
+                "type": "String"
+            }
+        }
+    },
+    "text_complete_orders": "{type, select, full{طلبات مكتملة} other{مكتملة}}",
+    "@text_complete_orders": {
+        "description": "completed order title",
+        "placeholders": {
+            "type": {
+                "type": "String"
+            }
+        }
+    },
+    "text_cancel_orders": "{type, select, full{طلبات ملغاة} other{ملغاة}}",
+    "@text_cancel_orders": {
+        "description": "canceled order title",
+        "placeholders": {
+            "type": {
+                "type": "String"
+            }
+        }
+    },
+    "text_general_consultancy": "{type, select, full{استشارة عامة} other{عام}}",
+    "@text_general_consultancy": {
+        "description": "general consultancy type title",
+        "placeholders": {
+            "type": {
+                "type": "String"
+            }
+        }
+    },
+    "text_private_consultancy": "{type, select, full{استشارة خاصة} other{خاص}}",
+    "@text_private_consultancy": {
+        "description": "private consultancy type title",
+        "placeholders": {
+            "type": {
+                "type": "String"
+            }
+        }
+    },
+    "text_new_consultancy": "{type, select, full{استشارات جديدة} other{جديد}}",
+    "@text_new_consultancy": {
+        "description": "new consultancy title",
+        "placeholders": {
+            "type": {
+                "type": "String"
+            }
+        }
+    },
+    "text_inprogress_consultancy": "{type, select, full{استشارات جارية} other{جارية}}",
+    "@text_inprogress_consultancy": {
+        "description": "in progress consultancy title",
+        "placeholders": {
+            "type": {
+                "type": "String"
+            }
+        }
+    },
+    "text_complete_consultancy": "{type, select, full{استشارات مكتملة} other{مكتملة}}",
+    "@text_complete_consultancy": {
+        "description": "completed consultancy title",
+        "placeholders": {
+            "type": {
+                "type": "String"
+            }
+        }
+    },
+    "text_cancel_consultancy": "{type, select, full{استشارات ملغاة} other{ملغاة}}",
+    "@text_cancel_consultancy": {
+        "description": "canceled consultancy title",
+        "placeholders": {
+            "type": {
+                "type": "String"
+            }
+        }
+    },
+    "text_new_ticket": "{type, select, full{تذاكر جديدة} other{جديد}}",
+    "@text_new_ticket": {
+        "description": "new ticket title",
+        "placeholders": {
+            "type": {
+                "type": "String"
+            }
+        }
+    },
+    "text_inprogress_ticket": "{type, select, full{تذاكر جارية} other{جارية}}",
+    "@text_inprogress_ticket": {
+        "description": "in progress ticket title",
+        "placeholders": {
+            "type": {
+                "type": "String"
+            }
+        }
+    },
+    "text_complete_ticket": "{type, select, full{تذاكر تم حلها} other{تم حلها}}",
+    "@text_complete_ticket": {
+        "description": "completed ticket title",
+        "placeholders": {
+            "type": {
+                "type": "String"
+            }
+        }
+    },
+    "text_cancel_ticket": "{type, select, full{تذاكر ملغاة} other{ملغاة}}",
+    "@text_cancel_ticket": {
+        "description": "canceled ticket title",
+        "placeholders": {
+            "type": {
+                "type": "String"
+            }
+        }
+    },
+    "text_all_orders" : "الكل",
+    "text_filter" : "تصفية",
+    "text_currency" : "ريال",
+    "text_filter_packages" : "تصفية الباقات",
+    "text_filter_tickets" : "تصفية التذاكر",
+    "text_filter_articles" : "تصفية المقالات",
+    "text_filter_orders" : "تصفية الطلبات",
+    "text_filter_customers" : "تصفية العملاء",
+    "text_filter_providers" : "تصفية مقدمي الخدمات",
+    "text_filter_consultancy" : "تصفية الاستشارات",
+    "text_author" : "صاحب المقالة",
+    "text_provider_name" : "اسم مقدم الخدمة",
+    "text_provider_type" : "نوع مقدم الخدمة",
+    "text_client_name" : "اسم العميل",
+    "text_client_type" : "نوع العميل",
+    "text_order_type" : "نوع الطلب",
+    "text_from_date" : "منذ تاريخ",
+    "text_to_date" : "الى تاريخ",
+    "text_firm" : "منشأة",
+    "text_firm_help" : "لدي فريق عمل سوف أقوم بضمهم على المنصة",
+    "text_person_help" : "ادير اعمالي الوظيفية و أقوم بالتقدم لعروض الخدمات بنفسي",
+    "text_person" : "مستقل",
+    "text_loading_data" : "جاري تحميل البيانات",
+    "text_no_data" : "لا يوجد البيانات",
+    "text_active" : "نشط",
+    "text_draft" : "مسودة",
+    "text_inreview" : "مراجعة",
+    "text_unactive" : "غير نشط",
+    "text_edit" : "تعديل",
+    "text_save" : "حفظ",
+    "text_delete" : "حذف",
+    "text_add" : "أضف جديد",
+    "text_all" : "الكل",
+    "text_high" : "عالية",
+    "text_medium" : "متوسطة",
+    "text_low" : "منخفضة",
+    "text_personal_info": "البيانات الشخصية",
+    "text_full_name": "الاسم بالكامل",
+    "text_id_number": "رقم الهوية",
+    "text_birthofdate": "تاريخ الميلاد",
+    "text_mobile": "رقم الجوال",
+    "text_job_title": "المسمى الوظيفي",
+    "text_gender": "الجنس",
+    "text_male": "ذكر",
+    "text_female": "انثى",
+    "text_warning": "تحذير",
+    "text_cancel": "الغاء",
+    "text_confirm_delete": "هل انت متاكد اجراء حذف للبيانات؟",
+    "text_account_type": "نوع الحساب",
+    "text_commission": "العمولة",
+    "text_about": "نبذة",
+    "text_location": "الموقع",
+    "text_time_zone": "التوقيت الزمني",
+    "text_country": "الدولة",
+    "text_city": "المدينة",
+    "text_phone": "رقم الجوال",
+    "text_search": "بحث",
+    "text_remember": "تذكرني دائما",
+    "text_choose_services" : "اختر الخدمات",
+    "text_search_by_invoice" : "بحث برقم الفاتورة",
+    "text_attachment_title" : "إضافة ملحقات",
+    "text_attachment_help" : "الحد الأقصى لرفع الملفات 5 ميغابايت",
+    "text_dropfile_here" : "اسحب الملفات هنا لرفعها",
+    "text_or" : "او",
+    "text_select_files" : "تحديد الملفات",
+    "text_service_keyword" : "مثال : استشارات ادارية , محاسبة تقديرية",
+    "text_choose_country" : "اختر الدولة",
+    "text_last_choose" : "أخر اختيار",
+    "dont_have_account" : "ليس لديك حساب؟",
+    "text_success_save" : "تم الحفظ بنجاح",
+    "text_success_update" : "تم التعديل بنجاح",
+    "text_success_delete" : "تم الحذف بنجاح",
+    "have_account" : "لديك حساب؟",
+    "register_now" : "اشترك الآن",
+    "text_state": "المقاطعة",
+    "text_license_data": "بيانات الترخيص",
+    "text_license_number": "رقم ترخيص مزاولة المهنة",
+    "text_license_start": "تاريخ الاصدار",
+    "text_license_end": "تاريخ الانتهاء",
+    "text_license_image": "صور الترخيص",
+    "text_certificate_title": "الشهادات",
+    "text_certificate_univercity": "اسم الجامعة",
+    "text_certificate_career": "التخصص",
+    "text_certificate_date": "سنة الحصول عليها",
+    "text_certificate_degree": "التقدير",
+    "text_education_title": "المؤهلات العلمية",
+    "text_education_univercity": "اسم الجامعة",
+    "text_education_career": "التخصص",
+    "text_education_date": "سنة الحصول عليها",
+    "text_education_degree": "التقدير",
+    "text_experience_title": "الخبرات العملية",
+    "text_experience_title_text": "الوظيفة",
+    "text_experience_sub_title": "اسم الشركة",
+    "text_experience_description": "وصف مهمتك الوظيفية",
+    "text_experience_from_date": "منذ تاريخ",
+    "text_experience_to_date": "الى تاريخ",
+
+    "text_bank_title" : "الحساب البنكي",
+    "text_bank_name" : "اسم البنك",
+    "text_bank_account_number" : "رقم الحساب",
+    "text_bank_beneficiary_name" : "اسم المستفيد",
+    "text_bank_iban" : "أي بان",
+    "text_tab_general" : "اعدادات عامة",
+    "text_tab_license" : "ترخيص العمل",
+    "text_tab_experience" : "الشهادات و الخبرات",
+    "text_tab_payment" : "طرق الدفع"
+
+}

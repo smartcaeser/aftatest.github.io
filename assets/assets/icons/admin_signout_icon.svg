@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+  <g id="Group_377" data-name="Group 377" transform="translate(-1864 -429)">
+    <g id="SVGRepo_iconCarrier" transform="translate(1864 372.05)">
+      <g id="Group_384" data-name="Group 384" transform="translate(0 58.95)">
+        <g id="Group_383" data-name="Group 383" transform="translate(0 0)">
+          <path id="Path_266" data-name="Path 266" d="M0,60.977v8.1A2.031,2.031,0,0,0,2.027,71.1H8.573A2.031,2.031,0,0,0,10.6,69.076V67.764a.4.4,0,1,0-.8,0v1.312A1.23,1.23,0,0,1,8.569,70.3H2.027A1.23,1.23,0,0,1,.8,69.076v-8.1A1.23,1.23,0,0,1,2.027,59.75H8.573A1.23,1.23,0,0,1,9.8,60.977v1.312a.4.4,0,1,0,.8,0V60.977A2.031,2.031,0,0,0,8.576,58.95H2.027A2.028,2.028,0,0,0,0,60.977Z" transform="translate(0 -58.95)" fill="currentColor"/>
+          <path id="Path_267" data-name="Path 267" d="M212.145,155.108a.4.4,0,0,0,.568,0l2.738-2.738a.4.4,0,0,0,0-.565l-2.738-2.738a.4.4,0,0,0-.565.565l2.056,2.056h-7.5a.4.4,0,0,0,0,.8h7.5l-2.056,2.056A.394.394,0,0,0,212.145,155.108Z" transform="translate(-199.568 -146.013)" fill="currentColor"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
